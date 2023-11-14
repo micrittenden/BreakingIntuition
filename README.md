@@ -1,2 +1,2 @@
-# Data100-BreakingIntuition
-Coursework for an introductory data science class in my first year at university. Topics focused on global development and data science.
+# Population Data Visualization
+Intro-level project on data visualization using population data from different administrative levels in the West African countries of Liberia and Monrovia.
